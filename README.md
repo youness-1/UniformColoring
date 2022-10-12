@@ -6,6 +6,7 @@ Google Colab Notebook: https://colab.research.google.com/drive/1zSfgYlWx896W3d-Y
 
 Uniform Coloring is a game where you have a few cells to color, and various colors
 available. 
+
 For simplicity, let's imagine a rectangular grid in which you can move one dye head between adjacent cells according to the 4 cardinal directions (N, S, E, W), without leaving the grid.
 All cells have a starting color (B = blue, Y = yellow, G = green) except for the one in which the head indicated with T is located (starting point). 
 The head can color the cell in which it is located with one of the colors available at different costs (cost (B) = 1, cost (Y) = 2, cost (G) = 3),
